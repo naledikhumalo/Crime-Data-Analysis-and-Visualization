@@ -9,12 +9,12 @@ The project aims to analyze crime data by:
 - Converting date columns to the appropriate format for time-based analysis.
 - Creating new features, such as year and month, to explore trends over time.
 - Investigating the distribution of victim ages, victim demographics and reporting behaviors, crime trends over time, age 
-  distributions, and top crimes
+  distributions, and top 20 crimes.
   
 ## Dataset
 
 The analysis is based on the dataset: **`Crime Data.csv`**. Key columns include:
-- `date_reported`, `date_occurred`, `victim_age`, `victim_sex`, `victim_descent`, `crime_code_description`, etc.
+- `date_reported`, `date_occurred`, `victim_age`, `victim_sex`, `victim_descent`, `crime_code_description`, `area`, etc.
 
 ## Steps in the Analysis
 
